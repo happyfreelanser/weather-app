@@ -1,0 +1,19 @@
+.city-name {
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.city-temp {
+  font-size: 56px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.city-temp-min,
+.city-temp-max {
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}

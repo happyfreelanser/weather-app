@@ -1,0 +1,18 @@
+.select-wrap {
+  position: relative;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.select-wrap p {
+  cursor: pointer;
+}
+
+.select-list {
+  display: block;
+}
+
+.select-item {
+  display: block;
+  cursor: pointer;
+}
